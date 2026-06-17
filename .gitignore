@@ -1,0 +1,41 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+[Oo]ut/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userprefs
+*.usertasks
+*.cache
+*.docstates
+*.userosscache
+*.sln.docstates
+
+# Rider / VS Code
+.idea/
+.vscode/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.bak
+
+# Configurações locais com dados sensíveis
+appsettings.local.json
