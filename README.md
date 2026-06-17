@@ -7,6 +7,7 @@ Aplicação desktop em Windows Forms com PostgreSQL para cadastro de salas e age
 1. Criar o banco e rodar o script:
 
    ```
+   createdb coworking
    psql -d coworking -f database/script.sql
    ```
 
